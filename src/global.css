@@ -144,7 +144,7 @@ shape => circle
 }
 .one {
   width: 100%;
-  height: 100vh;
+  
   background: #833ab4;
   background: linear-gradient(
     357deg,
@@ -163,8 +163,8 @@ shape => circle
   width: 100%;
 }
 .two div {
-  width: 25%;
-  height: 25vh;
+  width: 5%;
+  
   background-color: #833ab4;
   margin: 5px;
 }
@@ -178,7 +178,7 @@ shape => circle
 footer {
   margin: 50px;
   width: 100%;
-  height: 100vh;
+ 
   background-color: red;
   background-image: url("../public/images/sahar.jpg");
   background-position: bottom;
